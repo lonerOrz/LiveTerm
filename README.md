@@ -9,7 +9,7 @@
 
 <p align="center">
 <img src="./demo/cveinnt.png" width="600"><br>
-<strong><a href="https://cveinnt.com" target=_blank>my personal website</a></strong>
+<strong><a href="https://loner-liveterm.vercel.app" target=_blank>my personal website</a></strong>
 </p>
 
 ## 📄 Configuration
